@@ -1,4 +1,4 @@
-#To run gulp you should to do next actions:
+#To run gulp you should to do following actions:
 
 npm install gulp
 npm install --save-dev gulp-less
