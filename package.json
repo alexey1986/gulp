@@ -9,20 +9,22 @@
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.3.0",
     "gulp-uglify": "^2.0.0",
     "gulp-watch": "^4.3.11"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gulp build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexey1986/gulp_test.git"
+    "url": "git+https://github.com/alexey1986/gulp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexey1986/gulp_test/issues"
+    "url": "https://github.com/alexey1986/gulp/issues"
   },
-  "homepage": "https://github.com/alexey1986/gulp_test#readme"
+  "homepage": "https://github.com/alexey1986/gulp#readme"
 }
